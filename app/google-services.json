@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147070620107",
+    "firebase_url": "https://vocapp-fd069.firebaseio.com",
+    "project_id": "vocapp-fd069",
+    "storage_bucket": "vocapp-fd069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147070620107:android:634067f2ca4f770d",
+        "android_client_info": {
+          "package_name": "app.gramatic.gramaticapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147070620107-6m4ehse6ruk0aa6q03v0qk6o3tnro3pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.gramatic.gramaticapp",
+            "certificate_hash": "70228773b0b059420159111175e5b97b0ea4f021"
+          }
+        },
+        {
+          "client_id": "147070620107-7v7n7mrt718k6en9t5a1p2s3k2c0vd9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhNkBMO6cZ1vcZbbYRSQRv3XttDZdAyXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147070620107-7v7n7mrt718k6en9t5a1p2s3k2c0vd9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
